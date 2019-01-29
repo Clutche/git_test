@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>Test Head</head>
+<body>
+<h1>BODY</h1>
+</body>
+</html>
